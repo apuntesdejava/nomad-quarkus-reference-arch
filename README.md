@@ -1,4 +1,6 @@
 # Nomad Quarkus Reference Arch
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Orchestrator](https://img.shields.io/badge/orchestrator-Nomad-blue)
 
 Este proyecto tiene por objetivo mostrar cómo se puede tener una arquitectura escalable en HashiCorp Nomad + Consul, y con balanceador Fabio.
 
